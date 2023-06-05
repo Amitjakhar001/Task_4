@@ -1,2 +1,2 @@
 # Task 4
-This repo contains all the data necessary to get started on task 4, good luck!
+Please refer Task_4_Solution.pdf file for all information 
